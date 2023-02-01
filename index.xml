@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simon Bromander</title><link>https://simonbromander.com/</link><description>Recent content on Simon Bromander</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://simonbromander.com/index.xml" rel="self" type="application/rss+xml"/><item><title>How I run asynchronous "problem-to-action-plan" workshops</title><link>https://simonbromander.com/p/how-i-run-asynchronous-problem-to-action-plan-workshops/</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/p/how-i-run-asynchronous-problem-to-action-plan-workshops/</guid><description>&lt;img src="https://simonbromander.com/p/how-i-run-asynchronous-problem-to-action-plan-workshops/images/dalle.jpg" alt="Featured image of post How I run asynchronous "problem-to-action-plan" workshops" />&lt;p>I believe it&amp;rsquo;s fair to assume that each one of us has, at some point in our lives, been in this situation: The team is having trouble getting things done because people are too busy with their own work to share ideas and make decisions. The task of completing the project has stalled. Do you recognize it?&lt;/p>
+&lt;p>If this has ever happened to you, you know how frustrating it can be. But what if there was a way to keep this from happening in the first place?&lt;/p>
+&lt;p>What if we could hold asynchronous workshops instead of waiting for everyone to be available at the same time?&lt;/p>
+&lt;p>In this article, I&amp;rsquo;ll talk about some ways that teams can run productive workshops even when they can&amp;rsquo;t always be in the same space.&lt;/p>
+&lt;p>By making workshops asynchronous, people can work when it&amp;rsquo;s convenient for them and can join or leave the workshop whenever they want. We can avoid scheduling problems and still get the work done this way.&lt;/p>
+&lt;p>&lt;strong>Process&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>For asynchronous workshops to work, everyone needs to agree on a clear goal and strategy. The purpose must be clearly communicated to the group. To make sure everyone is on the same page, I ask the main stakeholder to create a short video explaining:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Why we are working on this&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Clearly stating the key user needs&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>What’s the expected outcome&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>How it will help to solve the problem&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>The video is then viewed by the people who are in the workshop. When the participants watch the video, they are asked to make notes and pose additional questions which are posted on Slack and addressed properly by the main stakeholder.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Once everyone agrees on the goal, it&amp;rsquo;s time to get everyone together to come up with &amp;ldquo;How Might We&amp;rsquo;s.&amp;rdquo; I set up a short meeting for the whole workshop team (approx. 30 minutes is required)In a design thinking process, &amp;ldquo;how might we&amp;rdquo; (HMW) statements are a good way to frame problems. They are short, clear, and open-ended, which makes it possible to come up with many different solutions. (More about HMWs in a different post.) Using the notes that people made in Step 1, we work together to turn the problem that our key stakeholder described into HMW statements. At the end of the session, we pick one or two HMWs to focus on during the workshop. We pick the ones that give us the best chance of solving the problem.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Now it&amp;rsquo;s time to switch back to async. Based on the HMW that was chosen, I let each participant come up with ideas on their own. I ask the people taking part to limit their work to two 30-minute sessions.Giving everyone a set amount of time to work on a certain task is called &amp;ldquo;timeboxing.&amp;rdquo; This could take anywhere from 5 to 60 minutes. When time&amp;rsquo;s up, everyone moves on.The sessions should be at least a day or two apart so that people can have time to think. According to research, ideas are produced when you are not pushed to think of them. I&amp;rsquo;ve created a framework for participants to operate in so that they can work independently.&lt;/p>
+&lt;p>The framework is made up of three parts:&lt;br>
+&lt;strong>Need&lt;/strong> - Participants state the need that they are addressing.&lt;br>
+&lt;strong>Opportunity&lt;/strong> - Based on the needs, what kind of opportunity do we see?&lt;br>
+&lt;strong>Solution&lt;/strong> - What&amp;rsquo;s the solution to the opportunity?&lt;/p>
+&lt;p>The steps and what needs to be done in each are briefly explained to the participants. People are asked to write as much detail as they can so that others can understand it.&lt;/p>
+&lt;p>Once everyone has put in their ideas, other participants will be asked to look over them and add comments. I set a deadline of 24 hours to keep moving forward.&lt;/p>
+&lt;p>At the end, we have a lot of ideas that we need to start organizing and deciding on. I set up another short (30-minute) meeting for the whole workshop team to go over all the ideas.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>So that everyone can understand, I&amp;rsquo;ve made a short presentation that goes over all the ideas. For each concept, I ask everyone in the group to vote.&lt;/p>
+&lt;p>&lt;strong>The vote is cast on a 5-point scale:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>0 - I strongly oppose this idea.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1 – This idea is bad, but it could be made better.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>2 - This is a good idea, but I don&amp;rsquo;t see how it will solve the problem.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>3 - I like this idea, and I can see how it would solve the problem.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>4 – This is a good idea, and I think it could work.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>5 – This is great, it solves the problem, and it fits with the overall strategy.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>The votes have been counted, and we now know which concepts are the most popular. Now that we have a set of tangible ideas to investigate further, we select 1-2 to pursue. We start digging deeper into each idea by making action plans for each one. The action plans are then given to a driver, who is in charge of turning the idea into a project and putting the plan into action.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Summary&lt;/strong>&lt;/p>
+&lt;p>One of the best things about asynchronous workshops is how flexible they are. We can hold workshops with people from different teams, departments, countries and even time-zones. We don&amp;rsquo;t have to be in the same room at the same time, so we can avoid scheduling problems and still do the work.&lt;/p>
+&lt;p>But there are some costs and benefits to running async workshops. Without face-to-face interaction, it can be harder to get people to feel like they are working together. It can also be harder to lead and keep things moving forward.&lt;/p>
+&lt;p>The steps I&amp;rsquo;ve described above have helped me a lot, and I hope they can help you too. You can use this guide as a starting point when you do run async workshops.&lt;/p></description></item><item><title>10x the analysis speed of your user interviews</title><link>https://simonbromander.com/p/10x-the-analysis-speed-of-your-user-interviews/</link><pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/p/10x-the-analysis-speed-of-your-user-interviews/</guid><description>&lt;img src="https://simonbromander.com/p/10x-the-analysis-speed-of-your-user-interviews/images/3.png" alt="Featured image of post 10x the analysis speed of your user interviews" />&lt;p>UX designers and researchers frequently face the time-consuming challenge of interpreting and thematizing the interview scripts during user research. There are many user research tools that make thematizing easy and convenient, but they are often pricy and require a subscription fee. Notion  can be a decent alternative since you might already be using Notion for free or your employer might already be paying for it.&lt;/p>
+&lt;p>Do you want to check out my template instead of reading this guide? &lt;a class="link" href="https://bromander.gumroad.com/l/userresearchanalyzer" target="_blank" rel="noopener"
+>Check it here&lt;/a>&lt;/p>
+&lt;p>I follow these steps when analyzing user interviews in Notion:&lt;/p>
+&lt;ol>
+&lt;li>Begin by actually typing out your interview notes or transcripts. I use oTransacribe, which makes pausing and wriggling your keyboard back and forth while taking notes effortless (&lt;a class="link" href="http://otranscribe.com/" target="_blank" rel="noopener"
+>http://otranscribe.com&lt;/a>).&lt;/li>
+&lt;li>From the notes, make a CSV file.&lt;/li>
+&lt;li>Add the columns &amp;ldquo;User feedback(text)&amp;rdquo;, &amp;ldquo;timestamp,&amp;rdquo; and &amp;ldquo;participant identity&amp;rdquo; to a Google Sheet after importing the CSV file.&lt;/li>
+&lt;li>Establish the columns &amp;ldquo;User feedback(text),&amp;rdquo; &amp;ldquo;timestamp,&amp;rdquo; and &amp;ldquo;participant identifier&amp;rdquo; in a Notion DB. This is where you start. Add columns for &amp;ldquo;Theme,&amp;rdquo; &amp;ldquo;Sentiment,&amp;rdquo; and &amp;ldquo;Context&amp;rdquo; as well. The context for the feedback will be included in the Context column, such as Onboarding, the Checkout form, etc. The &amp;ldquo;Theme&amp;rdquo; column contains items like &amp;ldquo;copy problems,&amp;rdquo; &amp;ldquo;Color,&amp;rdquo; and so forth. I utilize the &amp;ldquo;Sentiment Column&amp;rdquo; to record the sentiment of a comment; I typically use the categories of &amp;ldquo;Negative,&amp;rdquo; &amp;ldquo;Natural,&amp;rdquo; and &amp;ldquo;Positive.&amp;rdquo;&lt;/li>
+&lt;li>Continue by copying the values from Google Sheet and pasting them into Notion.&lt;/li>
+&lt;li>Keep going over each row you imported into Notion. Including themes, topcis, etc. to complete your data analysis, go row by row. After row-by-row analysis of your data, you can start experimenting with Notion filters to look for recurrent themes and remarks. Learn about the basics of filters here.&lt;/li>
+&lt;/ol>
+&lt;p>To see a variety of patterns, combine different filters.&lt;/p>
+&lt;p>If you want to make it even easier to analyze User Interviews in Notion, download my template. It includes a pre-defined process from Import data to Analyze and find Insights. The template contains detailed instructions for how to complete the process and scale it.&lt;/p>
+&lt;p>&lt;a class="link" href="https://bromander.gumroad.com/l/lbzht" target="_blank" rel="noopener"
+>Buy on&lt;/a>&lt;/p></description></item><item><title>Do’s and dont’s when giving Design Feedback</title><link>https://simonbromander.com/p/dos-and-donts-when-giving-design-feedback/</link><pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/p/dos-and-donts-when-giving-design-feedback/</guid><description>&lt;img src="https://simonbromander.com/p/dos-and-donts-when-giving-design-feedback/images/Frame-1-1.jpg" alt="Featured image of post Do’s and dont’s when giving Design Feedback" />&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>As a UX designer, I know that giving feedback is one of the most important (and challenging) aspects of the job. When done correctly, it can help my team members create better designs. But if I&amp;rsquo;m not careful, I could easily wind up hurting their feelings or sabotaging their efforts. In this article, I&amp;rsquo;ll share some tips on how to give feedback effectively. I&amp;rsquo;ll also touch on some of the do&amp;rsquo;s and don&amp;rsquo;ts of providing feedback, based on my own personal experience.&lt;/p>
+&lt;p>There&amp;rsquo;s definitely an art to giving feedback, and it&amp;rsquo;s something that I&amp;rsquo;ve been working on for a while now. I&amp;rsquo;ve learned that there are some things that can help make the process a lot smoother. So if you&amp;rsquo;re a junior designer who wants to learn how to give better feedback, then this is the article for you.&lt;/p>
+&lt;h2 id="do-critique-the-work-not-the-person">Do: Critique the Work, Not the Person&lt;/h2>
+&lt;p>When I&amp;rsquo;m critiquing someone&amp;rsquo;s work, I try to stay away from personal comments. For example, I&amp;rsquo;ll never say something like, &amp;ldquo;I don&amp;rsquo;t like your font choice.&amp;rdquo; It&amp;rsquo;s not helpful, and it&amp;rsquo;s not constructive.&lt;/p>
+&lt;p>Instead, I&amp;rsquo;ll focus on the work itself. I&amp;rsquo;ll ask questions like, &amp;ldquo;Does this font work well for the type of content you&amp;rsquo;re trying to communicate?&amp;rdquo; or &amp;ldquo;What made you choose this color?&amp;rdquo; By critiquing the work and not the person, I&amp;rsquo;m giving the designer feedback they can actually use to improve their skills.&lt;/p>
+&lt;h2 id="do-be-clear-concise-and-specific">Do: Be Clear, Concise, and Specific&lt;/h2>
+&lt;p>As a UX designer, it&amp;rsquo;s important to be clear, concise, and specific when giving feedback.&lt;/p>
+&lt;p>When I&amp;rsquo;m giving feedback, I like to use the &amp;ldquo;sandwich method”. This means I start with something positive, then move on to what could be improved, and end with another positive statement.&lt;/p>
+&lt;p>This approach helps me stay on track and makes sure that I&amp;rsquo;m not being critical for the sake of being critical. And it also helps the recipient of my feedback know that I&amp;rsquo;m invested in their success.&lt;/p>
+&lt;h2 id="do-make-suggestions-and-offer-alternatives">Do: Make Suggestions and Offer Alternatives&lt;/h2>
+&lt;p>I always try to offer suggestions and alternatives when I&amp;rsquo;m giving feedback. It&amp;rsquo;s important to me that the people I&amp;rsquo;m working with feel like they have a choice and that they&amp;rsquo;re not being told what to do.&lt;/p>
+&lt;p>I think it also helps them to understand my suggestions better and gives them a chance to weigh in on the options we&amp;rsquo;re considering. Plus, it just feels like the right thing to do.&lt;/p>
+&lt;h2 id="do-be-prompt">Do: Be Prompt&lt;/h2>
+&lt;p>Whenever I&amp;rsquo;m giving feedback, I try to be as prompt as possible. The last thing I want is for the designer to feel like they&amp;rsquo;re being ignored, or that their work isn&amp;rsquo;t important. So I&amp;rsquo;ll usually send my feedback within 24 hours of seeing the design.&lt;/p>
+&lt;p>I also like to keep my feedback concise. I know that designers are busy people, and they don&amp;rsquo;t need a long, drawn-out email full of feedback. My goal is to give them the most important things to focus on so they can make changes quickly and efficiently.&lt;/p>
+&lt;h2 id="do-acknowledge-the-good">Do: Acknowledge the Good&lt;/h2>
+&lt;p>Here&amp;rsquo;s a good rule of thumb to follow when giving feedback: always start by acknowledging the good. This shows that you&amp;rsquo;re paying attention and that you appreciate the work that&amp;rsquo;s been put in.&lt;/p>
+&lt;p>It also sets the tone for the rest of the conversation, which is going to be a lot more productive if we&amp;rsquo;re able to stay positive. And who knows? You might even learn something from the designer that can help you improve your own work.&lt;/p>
+&lt;h2 id="dont-make-it-personal">Don’t: Make It Personal&lt;/h2>
+&lt;p>As a UX designer, I&amp;rsquo;ve learned that it&amp;rsquo;s important to keep my feedback constructive and avoid making it personal. It&amp;rsquo;s easy to get wrapped up in our own opinions, but if we want to help someone grow and learn, we need to be able to offer critiques without sounding like we&amp;rsquo;re attacking them.&lt;/p>
+&lt;p>There have been times when I&amp;rsquo;ve given feedback that wasn&amp;rsquo;t very helpful because I was more focused on being right than on helping the designer improve their work. That is not what feedback is intended to be about. It&amp;rsquo;s a tool to help someone get better, not to make them feel inferior.&lt;/p>
+&lt;h2 id="dont-bring-in-your-ego">Don’t: Bring in Your Ego&lt;/h2>
+&lt;p>I used to make this mistake all the time. I would give feedback, but I would also inject my own opinion into the mix. And what this would do is confuse the person I was giving feedback to. They didn&amp;rsquo;t know whether they should take my advice or not.&lt;/p>
+&lt;p>It&amp;rsquo;s really important to remember that when you&amp;rsquo;re giving feedback, you&amp;rsquo;re doing it as a consultant. You&amp;rsquo;re offering your opinion, but it&amp;rsquo;s ultimately up to the person you&amp;rsquo;re giving feedback to make the final decision. This is something that I had to learn the hard way.&lt;/p>
+&lt;p>When you&amp;rsquo;re humble and you let the other person know that you&amp;rsquo;re just giving your opinion, it makes it a lot easier for them to accept your feedback.&lt;/p>
+&lt;h2 id="dont-be-vague">Don’t: Be Vague&lt;/h2>
+&lt;p>When I&amp;rsquo;m giving feedback, I like to be as specific as possible. That way, the person I&amp;rsquo;m giving feedback to knows exactly what I&amp;rsquo;m talking about and can make the necessary changes. Vague feedback can be confusing and frustrating, and it&amp;rsquo;s not going to help the person I&amp;rsquo;m giving feedback to improve their design.&lt;/p>
+&lt;p>If you&amp;rsquo;re not sure what you don&amp;rsquo;t like about a design, try breaking it down into individual elements and describing why each one doesn&amp;rsquo;t work for you.&lt;/p>
+&lt;h2 id="dont-be-late">Don’t: Be Late&lt;/h2>
+&lt;p>One of the cardinal sins of giving feedback is being late(if feedback is given in a meeting). If you&amp;rsquo;re going to be more than a few minutes late, let the other person know ahead of time. Otherwise, you&amp;rsquo;re just wasting their time.&lt;/p>
+&lt;p>I&amp;rsquo;ve been on the receiving end of a feedback session where the participants was late, and it&amp;rsquo;s not a good feeling. It makes you feel like you&amp;rsquo;re not a priority, and that your time doesn&amp;rsquo;t matter. Not to mention, it&amp;rsquo;s just plain rude.&lt;/p>
+&lt;p>So if you can&amp;rsquo;t be on time, make sure you let the other person know ahead of time. It&amp;rsquo;s the courteous thing to do.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>All in all, giving feedback is a delicate art. You want to be honest, but you also need to be mindful of the other person&amp;rsquo;s feelings. And above all, you need to be clear and concise.&lt;/p>
+&lt;p>The best way to give feedback is to start with the positive, then state the issue, and finally, provide a suggestion for how to fix it. This way, the recipient feels like they&amp;rsquo;re being heard, and they also know what they need to work on.&lt;/p>
+&lt;p>Giving feedback can be tough, but it&amp;rsquo;s a crucial part of the design process. By following these tips, you&amp;rsquo;ll be able to give feedback that is both helpful and constructive.&lt;/p>
+&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Giving feedback is a skill that can be learned and improved over time with practice. As a UX designer, here are some guidelines to follow when giving feedback:&lt;/p>
+&lt;p>&lt;strong>Do:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Make it a habit to provide feedback on a regular basis.&lt;/li>
+&lt;li>Critique the work, not the person.&lt;/li>
+&lt;li>Be clear and specific about what you like and don’t like.&lt;/li>
+&lt;li>Avoid using vague terms such as &amp;ldquo;nice&amp;rdquo; or &amp;ldquo;good.&amp;rdquo;&lt;/li>
+&lt;li>Explain the reasoning behind your feedback.&lt;/li>
+&lt;li>Make suggestions for improving the design.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Don’t:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Provide feedback solely to be critical.&lt;/li>
+&lt;li>Make assumptions about someone’s skills or knowledge.&lt;/li>
+&lt;li>Critique a design before fully comprehending it.&lt;/li>
+&lt;li>Use obscene language.&lt;/li>
+&lt;li>Be vague about what you like or don’t like&lt;/li>
+&lt;/ol></description></item><item><title>Why designers should welcome Adobe's acquisition of Figma.</title><link>https://simonbromander.com/p/why-designers-should-welcome-adobes-acquisition-of-figma./</link><pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/p/why-designers-should-welcome-adobes-acquisition-of-figma./</guid><description>&lt;img src="https://simonbromander.com/p/why-designers-should-welcome-adobes-acquisition-of-figma./images/Frame-1-1024x604.jpg" alt="Featured image of post Why designers should welcome Adobe's acquisition of Figma." />&lt;p>The design community is &lt;a class="link" href="https://twitter.com/zoink/status/1570385551517437952" target="_blank" rel="noopener"
+>in a rage&lt;/a>. Designers argue:  &lt;em>How on earth can they sell themselves to Adobe?.&lt;/em>&lt;/p>
+&lt;p>In my opinion, Figma is doing nothing wrong. They were a venture-backed business, so eventually investors wanted a return on their investment.&lt;/p>
+&lt;p>Designers are scared of what will happen to their favorite tool. Will it progress to become something even greater, or will it get bloated and become worse? Whatever the case, there is nothing we can do about it. Let&amp;rsquo;s embrace it instead.&lt;/p>
+&lt;p>&lt;strong>In light of that, here are my thoughts on the acquisition:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Former employees of Figma will create new businesses, hopefully around building &lt;strong>brand-new disruptive design tools&lt;/strong>. This has happened before. Early startup joiners cash out and get the funds needed to build their own design-focused startups. I&amp;rsquo;m expecting some new shiny tools to come our way really soon.&lt;/li>
+&lt;li>Adobe purchased Figma for B$20. It&amp;rsquo;s not something to be ignored. As designers, we should feel proud of this. Businesses, customers, and end users all benefit significantly from design, and &lt;strong>this acquisition brings light on just how important design is&lt;/strong>.&lt;/li>
+&lt;li>But in the end, &lt;strong>designers must learn that their tools do not determine who they are&lt;/strong>. Although Figma is a tool utilized in their day to day work, there are other tools available that are just as effective. New tools will also arrive. To all designers: Don&amp;rsquo;t get bogged down by your tools; instead, invest in your skill set, methods of operation, and frameworks.&lt;/li>
+&lt;/ul></description></item><item><title>Successful UX teams are transparent towards the full organization</title><link>https://simonbromander.com/p/successful-ux-teams-are-transparent-towards-the-full-organization/</link><pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/p/successful-ux-teams-are-transparent-towards-the-full-organization/</guid><description>&lt;p>Are you leading a UX design team? Do you desire a greater presence of your design team throughout the company?&lt;/p>
+&lt;p>I&amp;rsquo;ve worked in a variety of teams and businesses, from start-ups to large corporations. I discovered a few things you can do to lower staff churn, boost team reputation, and make the UX team respectable.&lt;/p>
+&lt;p>&lt;strong>Transparency between the team and the organization is the key to success.&lt;/strong> The siloing of the UX team from the rest of the organization is a common mistake that needs to be avoided at all times. The team and its members will eventually suffer as a result of doing this.&lt;/p>
+&lt;p>&lt;strong>Problems that will inevitably arise in a siloed design team include:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The team won&amp;rsquo;t be taken seriously because they aren&amp;rsquo;t privy to the organization&amp;rsquo;s problems that need to be solved.&lt;/li>
+&lt;li>It&amp;rsquo;s tough to innovate when you&amp;rsquo;re isolated because you&amp;rsquo;re stuck in the backseat taking orders.&lt;/li>
+&lt;li>Team members will eventually resign as they become mentally exhausted by company politics due to the urge to keep the design teams in their own safe space.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>I&amp;rsquo;ve previously worked on a team that was organized as a separate business unit and did not collaborate across departments.&lt;/strong>&lt;/p>
+&lt;p>It ultimately became unmotivating, which led to my resignation and a search for a better place to work. As a result, &lt;strong>I will now reveal what you can do to avoid this.&lt;/strong>&lt;/p>
+&lt;h2 id="be-inclusive-share-your-work-and-make-the-ux-team-more-accessible-for-the-wider-organization">Be inclusive, share your work, and make the UX team more accessible for the wider organization.&lt;/h2>
+&lt;p>By doing this, your team will increase organizational learning, increase feedback and input on your work, as well as encourage participation from others in the design process.&lt;/p>
+&lt;p>&lt;strong>Suggestions for having a more approachable UX team&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Invite other organizational departments to participate in design workshops and feedback sessions.&lt;/li>
+&lt;li>Make use of other business operations to increase the number of contact points with clients and users.&lt;/li>
+&lt;li>Make &lt;em>[insert name of design tool here]&lt;/em> accessible to all employees so they can take a peak inside and see what’s going on.&lt;/li>
+&lt;li>Proactively share what the team is working on and ask for feedback. Do this by actively sharing work-in-progress items; share early.&lt;/li>
+&lt;li>Share your team&amp;rsquo;s knowledge of facilitating workshops and learn others&amp;rsquo; how they can be better at facilitation.&lt;/li>
+&lt;/ul>
+&lt;p>In light of the above, I do not advocate disbanding the UX team as a whole, but rather view the UX team spaces as a secure place for discussing and providing input on UX work, with organizations and product/delivery teams handling the actual day-to-day work.&lt;/p></description></item><item><title>My 3 favorite tools to stay a-jour as a UX Designer in a Fintech scale up</title><link>https://simonbromander.com/p/my-3-favorite-tools-to-stay-a-jour-as-a-ux-designer-in-a-fintech-scale-up/</link><pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/p/my-3-favorite-tools-to-stay-a-jour-as-a-ux-designer-in-a-fintech-scale-up/</guid><description>&lt;p>I love working within UX, every day I get the opportunity do work that actually impacts the daily lives of our users. I work as a UX Designer at &lt;a class="link" href="https://minnatechnologies.com/" target="_blank" rel="noopener"
+>Minna Technologies&lt;/a> building infrastructure for Subscription management.&lt;/p>
+&lt;p>And since I love doing what I do in a structured way, I have a handful of tools that helps me get organized. They have become part of my daily habit, and I recommend them to anyone and everyone.&lt;/p>
+&lt;p>The following are my go-to resources for helping me perform at my peak:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Feedly:&lt;/strong> I use Feedly to stay up to date on news and business trends. My reading list is automatically curated by the clever “Leo” bot based on intriguing news and subjects.&lt;/li>
+&lt;li>&lt;strong>Notion:&lt;/strong> A database tool that “can do it all” is Notion. I’ve restricted my use of Notion to Collections, though. I assemble book lists, watch lists, app collections, and other things.&lt;/li>
+&lt;li>&lt;strong>Pocket:&lt;/strong> For online articles Pocket is the best “save it for later” app out there. It syncs to my Kobo electronic reader and is simple to use.&lt;/li>
+&lt;/ol>
+&lt;p>If you end up using these tools, let me know what you think!&lt;/p></description></item><item><title>Top 3 takeaways from Fintech Week London 2022 as a UX Designer</title><link>https://simonbromander.com/p/3-takeaways-from-ftw-london-2022/</link><pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/p/3-takeaways-from-ftw-london-2022/</guid><description>&lt;img src="https://simonbromander.com/p/3-takeaways-from-ftw-london-2022/images/1%2A063r_6Tr1tGmQg-qw3-pDw.jpeg" alt="Featured image of post Top 3 takeaways from Fintech Week London 2022 as a UX Designer" />&lt;p>- Wait, don’t you just sit around and fiddle in Figma all day? &lt;br>
+- Well, my role as a UX Designer in Fintech is a bit broader than that.. 😉&lt;/p>
+&lt;p>When I got the opportunity to join &lt;a class="link" href="https://www2.deloitte.com/uk/en/pages/financial-services/articles/growth-through-financial-inclusion.html" target="_blank" rel="noopener"
+>Fintech Week London 2022&lt;/a> as a part of my company’s product presence at the conference I wanted to take the opportunity to learn what’s to come in the Fintech space for product and especially UX. I’ve compiled my views and observations from the people I met below. All from a UX Designers point of view.&lt;/p>
+&lt;h2 id="1-big-tech-vs-big-banks">1️⃣ Big Tech vs Big Banks&lt;/h2>
+&lt;p>In the coming years, we will see an increasing number of Big Tech services leveraging the infrastructure built by Big Banks to provide better User Experiences. Consider Apple Pay and Google Pay; they essentially use the rails established by Big Banks to provide even better and more user-friendly services.&lt;/p>
+&lt;p>&lt;strong>Reflections&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>When Big Banks no longer own the customer journey, how will this affect their business models, and will they even want to compete in the same space?&lt;/li>
+&lt;li>Big Tech has no desire to build core banking services; rather, they would prefer to collaborate in order to use the infrastructure. How can the Big Banks profit from this?&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-embedded-finance-is-an-opportunity-to-make-financial-services-even-more-accessible">2️⃣ Embedded finance, is an opportunity to make financial services even more accessible&lt;/h2>
+&lt;p>When planning for the future, embedded finance is ready to be used right now. Embedded Finance is the integration of traditional financial services into services provided by non-financial organizations.&lt;/p>
+&lt;p>Embedded finance comes with:&lt;/p>
+&lt;ul>
+&lt;li>Consumer choice&lt;/li>
+&lt;li>Consumer protection&lt;/li>
+&lt;li>Frictionless connectivity&lt;/li>
+&lt;li>Reduced costs for Consumers &amp;amp; Banks&lt;/li>
+&lt;/ul>
+&lt;p>As a UX Designer, I see opportunities in this space for identifying new pain-point patterns and use-cases where Embedded Finance can assist in problem solving.&lt;/p>
+&lt;h2 id="3-subscription-management-for-financial-inclusivity">3️⃣ Subscription management for financial inclusivity&lt;/h2>
+&lt;p>When I introduced myself to the first two people I met at FTWL, they both told me about their recent attempts to cancel a UK newspaper. Their experience was dreadful, and they were eventually forced to call the Merchant and argue with a support representative about why they wanted to cancel. Why is this the case?&lt;/p>
+&lt;p>According to me providers of banking and payment services must cater for consumer choice and ease of use. The story about the dreadful experience of trying to cancel a newspaper enlightened me and made me reflect on that financial inclusion encompasses more than just making services available. According to a recent &lt;a class="link" href="https://www.westmonroe.com/perspectives/report/the-state-of-subscription-services-spending" target="_blank" rel="noopener"
+>Westmonroe study&lt;/a>, 89% of Americans underestimate how much they spend on subscriptions.&lt;/p>
+&lt;p>With the rising cost of living and the past COVID-19 pandemic, getting in control of finances is the top priority for many consumers. Things like these accelerates financial exclusion, and increasing living expenses is a concern for approximately half of UK banking customers, with 45% saying their wellbeing has been negatively impacted due to financial concerns during the past year according to a &lt;a class="link" href="https://www2.deloitte.com/uk/en/pages/financial-services/articles/growth-through-financial-inclusion.html" target="_blank" rel="noopener"
+>study by Deloitte&lt;/a>.&lt;/p>
+&lt;p>To cater for the need of more control of recurring expenses &lt;a class="link" href="https://minna.tech/" target="_blank" rel="noopener"
+>Minna Technologies&lt;/a> offers services that help consumers to Cancel, Pause and change their subscriptions, right from their banking app.&lt;/p></description></item><item><title>Archives</title><link>https://simonbromander.com/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/archives/</guid><description/></item><item><title>About</title><link>https://simonbromander.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://simonbromander.com/about/</guid><description>&lt;h2 id="about-me">About me​&lt;/h2>
+&lt;p>As a senior user experience designer, I have expertise working with many types businesses to find solutions to issues and produce excellent UX. My daily motivation comes from guiding a group of people toward a single objective. I like to gather with others to generate ideas and work on problems(wether this being remote or in-person), while designating deep work time to concentrate on developing solutions and organizing future work.&lt;/p>
+&lt;p>&lt;img src="https://simonbromander.com/about/images/workingoutside.jpg"
+width="768"
+height="760"
+srcset="https://simonbromander.com/about/images/workingoutside_hu9b7e0a9d5ba7178c18c69dfdcfd6879f_115215_480x0_resize_q75_box.jpg 480w, https://simonbromander.com/about/images/workingoutside_hu9b7e0a9d5ba7178c18c69dfdcfd6879f_115215_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Working remote"
+class="gallery-image"
+data-flex-grow="101"
+data-flex-basis="242px"
+>&lt;/p>
+&lt;h2 id="my-experience">My experience&lt;/h2>
+&lt;p>I’ve worked with a variety of businesses, from start-ups to large multinational corporations, in the fields of fintech, HR-tech, e-commerce (B2B &amp;amp; B2C), enterprise ordering systems, and others.&lt;/p>
+&lt;p>My prior experience covers all phases of the design process, from research and workshops to design systems and developer handoff. As part of my previous projects, I managed and took ownership of several design systems and scaled them.&lt;/p>
+&lt;p>I have project management and team leadership expertise. I’ve been in charge of a number of initiatives involving diverse business functions, business stakeholders, and customers. For team leadership, I have been mentoring and helping colleagues develop as designers. I appreciate feedback, and my leadership is open-minded and empathetic. I firmly believe that through working closely, leaders and their peers can develop together The process of learning from mistakes and improving oneself is a natural aspect of the development of any career. We should celebrate fails, learn and become better.&lt;/p>
+&lt;h2 id="personal">Personal&lt;/h2>
+&lt;p>I passionately believe in the sustainability of a work-life balance over the long run and in the right to make my own decisions. I encourage my peers to focus and take breaks when needed in order to live up to this. In order to live up to this, I spend my free time participating in sports like cross-country skiing, running, swimming, and cycling. Additionally, I’m a food, wine, and coffee nerd. These activities help me refuel so that I can give my all at work.&lt;/p>
+&lt;p>&lt;img src="https://simonbromander.com/about/images/cycling.gif"
+width="768"
+height="577"
+srcset="https://simonbromander.com/about/images/cycling_hu53257c543e02f9f2f3ee130620cd23fd_255670_480x0_resize_box_1.gif 480w, https://simonbromander.com/about/images/cycling_hu53257c543e02f9f2f3ee130620cd23fd_255670_1024x0_resize_box_1.gif 1024w"
+loading="lazy"
+alt="Cycling, one of my passions"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p></description></item><item><title>Links</title><link>https://simonbromander.com/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://simonbromander.com/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://simonbromander.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://simonbromander.com/search/</guid><description/></item></channel></rss>

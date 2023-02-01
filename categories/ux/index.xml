@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>UX on Simon Bromander</title><link>https://simonbromander.com/categories/ux/</link><description>Recent content in UX on Simon Bromander</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simonbromander.com/categories/ux/index.xml" rel="self" type="application/rss+xml"/><item><title>10x the analysis speed of your user interviews</title><link>https://simonbromander.com/p/10x-the-analysis-speed-of-your-user-interviews/</link><pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/p/10x-the-analysis-speed-of-your-user-interviews/</guid><description>&lt;img src="https://simonbromander.com/p/10x-the-analysis-speed-of-your-user-interviews/images/3.png" alt="Featured image of post 10x the analysis speed of your user interviews" />&lt;p>UX designers and researchers frequently face the time-consuming challenge of interpreting and thematizing the interview scripts during user research. There are many user research tools that make thematizing easy and convenient, but they are often pricy and require a subscription fee. Notion  can be a decent alternative since you might already be using Notion for free or your employer might already be paying for it.&lt;/p>
+&lt;p>Do you want to check out my template instead of reading this guide? &lt;a class="link" href="https://bromander.gumroad.com/l/userresearchanalyzer" target="_blank" rel="noopener"
+>Check it here&lt;/a>&lt;/p>
+&lt;p>I follow these steps when analyzing user interviews in Notion:&lt;/p>
+&lt;ol>
+&lt;li>Begin by actually typing out your interview notes or transcripts. I use oTransacribe, which makes pausing and wriggling your keyboard back and forth while taking notes effortless (&lt;a class="link" href="http://otranscribe.com/" target="_blank" rel="noopener"
+>http://otranscribe.com&lt;/a>).&lt;/li>
+&lt;li>From the notes, make a CSV file.&lt;/li>
+&lt;li>Add the columns &amp;ldquo;User feedback(text)&amp;rdquo;, &amp;ldquo;timestamp,&amp;rdquo; and &amp;ldquo;participant identity&amp;rdquo; to a Google Sheet after importing the CSV file.&lt;/li>
+&lt;li>Establish the columns &amp;ldquo;User feedback(text),&amp;rdquo; &amp;ldquo;timestamp,&amp;rdquo; and &amp;ldquo;participant identifier&amp;rdquo; in a Notion DB. This is where you start. Add columns for &amp;ldquo;Theme,&amp;rdquo; &amp;ldquo;Sentiment,&amp;rdquo; and &amp;ldquo;Context&amp;rdquo; as well. The context for the feedback will be included in the Context column, such as Onboarding, the Checkout form, etc. The &amp;ldquo;Theme&amp;rdquo; column contains items like &amp;ldquo;copy problems,&amp;rdquo; &amp;ldquo;Color,&amp;rdquo; and so forth. I utilize the &amp;ldquo;Sentiment Column&amp;rdquo; to record the sentiment of a comment; I typically use the categories of &amp;ldquo;Negative,&amp;rdquo; &amp;ldquo;Natural,&amp;rdquo; and &amp;ldquo;Positive.&amp;rdquo;&lt;/li>
+&lt;li>Continue by copying the values from Google Sheet and pasting them into Notion.&lt;/li>
+&lt;li>Keep going over each row you imported into Notion. Including themes, topcis, etc. to complete your data analysis, go row by row. After row-by-row analysis of your data, you can start experimenting with Notion filters to look for recurrent themes and remarks. Learn about the basics of filters here.&lt;/li>
+&lt;/ol>
+&lt;p>To see a variety of patterns, combine different filters.&lt;/p>
+&lt;p>If you want to make it even easier to analyze User Interviews in Notion, download my template. It includes a pre-defined process from Import data to Analyze and find Insights. The template contains detailed instructions for how to complete the process and scale it.&lt;/p>
+&lt;p>&lt;a class="link" href="https://bromander.gumroad.com/l/lbzht" target="_blank" rel="noopener"
+>Buy on&lt;/a>&lt;/p></description></item><item><title>Successful UX teams are transparent towards the full organization</title><link>https://simonbromander.com/p/successful-ux-teams-are-transparent-towards-the-full-organization/</link><pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate><guid>https://simonbromander.com/p/successful-ux-teams-are-transparent-towards-the-full-organization/</guid><description>&lt;p>Are you leading a UX design team? Do you desire a greater presence of your design team throughout the company?&lt;/p>
+&lt;p>I&amp;rsquo;ve worked in a variety of teams and businesses, from start-ups to large corporations. I discovered a few things you can do to lower staff churn, boost team reputation, and make the UX team respectable.&lt;/p>
+&lt;p>&lt;strong>Transparency between the team and the organization is the key to success.&lt;/strong> The siloing of the UX team from the rest of the organization is a common mistake that needs to be avoided at all times. The team and its members will eventually suffer as a result of doing this.&lt;/p>
+&lt;p>&lt;strong>Problems that will inevitably arise in a siloed design team include:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The team won&amp;rsquo;t be taken seriously because they aren&amp;rsquo;t privy to the organization&amp;rsquo;s problems that need to be solved.&lt;/li>
+&lt;li>It&amp;rsquo;s tough to innovate when you&amp;rsquo;re isolated because you&amp;rsquo;re stuck in the backseat taking orders.&lt;/li>
+&lt;li>Team members will eventually resign as they become mentally exhausted by company politics due to the urge to keep the design teams in their own safe space.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>I&amp;rsquo;ve previously worked on a team that was organized as a separate business unit and did not collaborate across departments.&lt;/strong>&lt;/p>
+&lt;p>It ultimately became unmotivating, which led to my resignation and a search for a better place to work. As a result, &lt;strong>I will now reveal what you can do to avoid this.&lt;/strong>&lt;/p>
+&lt;h2 id="be-inclusive-share-your-work-and-make-the-ux-team-more-accessible-for-the-wider-organization">Be inclusive, share your work, and make the UX team more accessible for the wider organization.&lt;/h2>
+&lt;p>By doing this, your team will increase organizational learning, increase feedback and input on your work, as well as encourage participation from others in the design process.&lt;/p>
+&lt;p>&lt;strong>Suggestions for having a more approachable UX team&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Invite other organizational departments to participate in design workshops and feedback sessions.&lt;/li>
+&lt;li>Make use of other business operations to increase the number of contact points with clients and users.&lt;/li>
+&lt;li>Make &lt;em>[insert name of design tool here]&lt;/em> accessible to all employees so they can take a peak inside and see what’s going on.&lt;/li>
+&lt;li>Proactively share what the team is working on and ask for feedback. Do this by actively sharing work-in-progress items; share early.&lt;/li>
+&lt;li>Share your team&amp;rsquo;s knowledge of facilitating workshops and learn others&amp;rsquo; how they can be better at facilitation.&lt;/li>
+&lt;/ul>
+&lt;p>In light of the above, I do not advocate disbanding the UX team as a whole, but rather view the UX team spaces as a secure place for discussing and providing input on UX work, with organizations and product/delivery teams handling the actual day-to-day work.&lt;/p></description></item></channel></rss>
